@@ -29,7 +29,7 @@ public class Siakad15 {
 
         nilaiAkhir = (nilaiKuis + nilaiTugas + nilaiUjian) / 3;
 
-        System.out.println("Mahasiswa dengan nama " + nama + " (NIM " + nim + ") kelas " + kelas + " nomor absen " + absen);
+        System.out.println("Mahasiswa dengan nama " + nama + " (NIM " + nim + ") kelas " + kelas + "nomor absen " + absen);
         System.out.println("Nilai Akhir: " + nilaiAkhir);
     }
 }
